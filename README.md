@@ -1,8 +1,8 @@
 # Mon Projet
 
-Bienvenu sur ce projet de démonstration.
+Bienvenue sur ce projet de démonstration.
 
-## Fonctionalités
+## Fonctionnalités
 
 - Calcul simple
 - Affichage des résultats
